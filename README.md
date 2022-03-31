@@ -25,7 +25,7 @@ This is SpamBot Of @Legend_Mr_Hacker Group- https//t.me/LEGEND_USERBOT
 ## Status Of Bot 
 
 <p align="left">
-    <a href="https://github.com/LEGEND-OS/LEGENDSPAM/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDSPAM?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDSPAM/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDSPAM?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDSPAM"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDSPAM?"></a>
+    <a href="https://github.com/sumitissu/LEGENDSPAM/network/members"><img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDSPAM?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDSPAM/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDSPAM?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDSPAM"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDSPAM?"></a>
 
 
 
